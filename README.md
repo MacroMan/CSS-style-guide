@@ -30,7 +30,7 @@ Some other rules that I work by:
 
 ## How to use this repo
 
-You can view a full list of all properties in the correct order in [All properties.txt](All properties.txt)
+You can view a full list of all properties in the correct order in [All properties.txt]("All properties.txt")
 
 For a list suitable for use in an IDE, see [IDE.txt](IDE.txt) or you can import the [.editorconfig](.editorconfig) file
 
@@ -38,7 +38,7 @@ For a list suitable for use in an IDE, see [IDE.txt](IDE.txt) or you can import 
 * [styles](stlyes) directory
   * Contains individual files for each group of properties
 * [build.sh](build.sh)
-  * Generates [All properties.txt](All properties.txt) and [IDE.txt](IDE.txt) from the files in [styles](styles)
+  * Generates [All properties.txt]("All properties.txt") and [IDE.txt](IDE.txt) from the files in [styles](styles)
 
 [1]: https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/
 [2]: http://www.guyroutledge.co.uk/
