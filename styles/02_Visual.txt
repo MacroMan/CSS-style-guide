@@ -1,0 +1,13 @@
+content
+resize
+opacity
+
+outline
+outline-width
+outline-style
+outline-color
+outline-offset
+
+box-decoration-break
+box-shadow
+

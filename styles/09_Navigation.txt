@@ -1,0 +1,6 @@
+nav-index
+nav-left
+nav-up
+nav-right
+nav-down
+

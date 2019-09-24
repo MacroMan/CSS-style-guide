@@ -1,0 +1,6 @@
+zoom
+counter-reset
+counter-increment
+cursor
+pointer-events
+

@@ -1,0 +1,12 @@
+background
+background-color
+background-image
+background-position
+background-position-x
+background-position-y
+background-size
+background-repeat
+background-origin
+background-clip
+background-attachment
+
