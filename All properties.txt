@@ -113,6 +113,8 @@ background-clip
 background-attachment
 
 # ANIMATION
+scroll-behavior
+
 transition
 transition-delay
 transition-timing-function
