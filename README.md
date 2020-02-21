@@ -24,8 +24,10 @@ The grouping and order I use is as follows:
 
 Some other rules that I work by:
 * Width before Height
-* Properties affecting sides are ordered same as the shorthand order
-  * left, top, right, bottom
+* Properties affecting sides are ordered same as the shorthand order, following the W3C spec
+  * top, right, bottom, left
+* Border radius is
+  * top-left, top-right, bottom-right, bottom-left
 * Blank lines between groups of properties (if there are more than 4 properties)
 
 ## How to use this repo
