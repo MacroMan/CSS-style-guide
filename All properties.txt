@@ -31,16 +31,16 @@ max-height
 box-sizing
 
 margin
-margin-left
 margin-top
 margin-right
 margin-bottom
+margin-left
 
 padding
-padding-left
 padding-top
 padding-right
 padding-bottom
+padding-left
 
 overflow
 overflow-x
@@ -66,11 +66,6 @@ border-width
 border-style
 border-color
 
-border-left
-border-left-width
-border-left-style
-border-left-color
-
 border-top
 border-top-width
 border-top-style
@@ -85,6 +80,11 @@ border-bottom
 border-bottom-width
 border-bottom-style
 border-bottom-color
+
+border-left
+border-left-width
+border-left-style
+border-left-color
 
 border-radius
 border-top-left-radius
